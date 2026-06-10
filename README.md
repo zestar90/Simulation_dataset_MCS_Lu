@@ -50,7 +50,7 @@ df = pd.read_parquet("Simulation_dataset_MCS_Lu.parquet")
 
 ## Related Publication
 
-Monir Vaghefi, Z., Asgarian, B.
+Monirvaghefi, Z., Asgarian, B.
 
 *A Scenario-Based Framework for District-Scale Seismic Risk Assessment: Application to Tehran, Iran.*
 
