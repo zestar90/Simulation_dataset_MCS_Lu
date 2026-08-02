@@ -52,7 +52,7 @@ df = pd.read_parquet("Simulation_dataset_MCS_Lu.parquet")
 
 Monirvaghefi, Z., Asgarian, B.
 
-*A Scenario-Based Framework for District-Scale Seismic Risk Assessment: Application to Tehran, Iran.*
+*A Data-Driven Framework for Scenario-Based District-Scale Seismic Risk Assessment and Risk Profiling: Application to Tehran, Iran.*
 
 Submitted to the Journal of Earthquake Engineering.
 
