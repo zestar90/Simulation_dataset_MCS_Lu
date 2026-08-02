@@ -4,7 +4,7 @@
 
 This repository contains the simulation-generated dataset used in the study:
 
-**"A Scenario-Based Framework for District-Scale Seismic Risk Assessment: Application to Tehran, Iran"**
+**"A Data-Driven Framework for Scenario-Based District-Scale Seismic Risk Assessment and Risk Profiling: Application to Tehran, Iran"**
 
 The dataset was developed to support machine-learning-based prediction of post-earthquake building damage and district-scale seismic risk assessment under alternative earthquake scenarios in Tehran, Iran.
 
